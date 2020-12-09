@@ -1,20 +1,20 @@
 # Komalpreet-kaur-Jagdeep-Singh-github.com-repostory
-the purpose of my repostory is to explain about my project, which is an arduion controlled car. it avoids the obstacles, choose its own clear way. for getting this project running propperly, we need to Connect the Arduino board to your PC using the USB cable. Run code on the computer. Once code is uploaded in Arduino, disconnect the USB cable, and turn on the rocket switch. The Arduino car in now in auto mode. If an obstacle is detected by the sensor, the car will automatically turn to avoid it.
+The purpose of my repostory is to explain about my project, which is an arduion controlled car. it avoids the obstacles, choose its own clear way. for getting this project running propperly, we need to Connect the Arduino board to your PC using the USB cable. Run code on the computer. Once code is uploaded in Arduino, disconnect the USB cable, and turn on the rocket switch. The Arduino car in now in auto mode. If an obstacle is detected by the sensor, the car will automatically turn to avoid it.
 
 Required material:-
-Arduino Uno
-L298N Motor driver dual H-bridge
-SG90 micro-servo motor
-SH-HC-08 Bluetooth 4.0 BLE module
-DC 3-6 V gear motor and wheels ( 4 units)
-9 Volts battery
-Breadborad
-Jumper wires (male/male and male/female)
+Arduino Uno,
+L298N Motor driver dual H-bridge,
+SG90 micro-servo motor,
+SH-HC-08 Bluetooth 4.0 BLE module,
+DC 3-6 V gear motor and wheels ( 4 units),
+9 Volts battery,
+Breadborad,
+Jumper wires (male/male and male/female),
 Rocket switch.
 Other materials needed for the project included:
-•	Hot glue gun
-•	Wire stripper tool
-•	Wire cutter
+•	Hot glue gun,
+•	Wire stripper tool,
+•	Wire cutter,
 •	Fine nose Pliers
 
 Required code:-
