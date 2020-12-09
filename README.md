@@ -190,5 +190,5 @@ void turnLeft()
 
 
 Team:-
-Komalpreet Kaur 
-jagdeep Sigh
+Komalpreet Kaur, 
+Jagdeep Sigh
